@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* 
+.main-container{
+  display: flex;
+} */
