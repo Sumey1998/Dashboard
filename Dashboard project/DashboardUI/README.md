@@ -1,6 +1,6 @@
 
 
-![demo video](https://github.com/user-attachments/assets/753d44f1-197d-416f-b005-2c39751b0e49)
+![demo video](https://github.com/user-attachments/assets/afdc3e45-8d39-4bc5-a44b-7e2c179f2408)
 
 ## Features Implemented
 
